@@ -6,7 +6,7 @@
 
 ## Listing Hidden Files and Normal Files
 - `ls -al`
--If you want ot see the list of all files with all hidden files in the Current directory system in Linux 
+-If you want to see the list of all files with all hidden files in the Current directory system in Linux or UNIX , 
 
 ## Creating & Viewing Files
 -To create a new file, use the command\
